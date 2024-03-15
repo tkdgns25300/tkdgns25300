@@ -16,8 +16,8 @@ JavaScript와 Express를 기반으로 한 서버 개발에 익숙하며, TypeScr
 
 <br>
 
-![image](https://github.com/tkdgns25300/tkdgns25300/assets/60119498/a0b94487-c544-4f00-bc04-73caab983c4f)
-![image](https://github.com/tkdgns25300/tkdgns25300/assets/60119498/c59f03c3-96e0-47e0-bee9-7faca6e1cc5c)
+![](https://github.com/tkdgns25300/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/tkdgns25300/github-stats-transparent/blob/output/generated/overview.svg)
 
 
 <!--
