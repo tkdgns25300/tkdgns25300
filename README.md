@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hun's%20Hub&fontSize=90)
 
 ### 👋 Hi, I'm SangHun Lee 
 Node.js 기반의 안정적인 서버 구축을 우선시하는 백엔드 개발자입니다.<br>
@@ -12,7 +12,7 @@ JavaScript와 Express를 기반으로 한 서버 개발에 익숙하며, TypeScr
 <img width="max-content" height="25px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/NEST-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img width="max-content" height="25px" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 #### Deployment
-<img width="max-content" height="25px" src="https://img.shields.io/badge/AWS S3-53a32a?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/AWS CloudFront-8650eb?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/AWS Route53-8650eb?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/AWS ELB-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img width="max-content" height="25px" src="https://img.shields.io/badge/AWS S3-53a32a?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/AWS Lambda-8650eb?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img width="max-content" height="25px" src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <br><br>
 
 <!--
