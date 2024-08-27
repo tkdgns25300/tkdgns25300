@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hun's%20Hub&fontSize=90)
 
 ### 👋 Hi, I'm SangHun Lee 
-Node.js 기반의 안정적인 서버 구축을 우선시하는 백엔드 개발자입니다.<br>
-JavaScript와 Express를 기반으로 한 서버 개발에 익숙하며, TypeScript와 Nest를 통해 보다 안전하고 효율적인 코드를 작성하는 데 열정을 가지고 있습니다.<br><br>
+웹사이트의 전체 인프라를 구축하고 운영한 경험이 있는 웹 개발자입니다.<br>
+TypeScript와 React/Nest를 사용한 개발에 익숙하며, 테스트 코드를 통해 보다 안전하고 효율적인 코드를 작성하는 데 열정을 가지고 있습니다.<br><br>
 
 
 ### 📰 SKills
